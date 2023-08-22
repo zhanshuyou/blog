@@ -13,4 +13,4 @@
 * [07.prefetch 与 preload 的区别](<articles/07.prefetch 与 preload 的区别.md>)
 * [08.前端处理日期的库](articles/08.前端处理日期的库.md)
 * [09.动态修改 favicon](<articles/09.动态修改 favicon.md>)
-* [10.水晶球数据洞察取数逻辑优化](articles/10.-shui-jing-qiu-shu-ju-dong-cha-qu-shu-luo-ji-you-hua.md)
+* [10.Logic Optimization of data Insight fetching](articles/10.logic-optimization-of-data-insight-fetching.md)
