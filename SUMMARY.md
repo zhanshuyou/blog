@@ -13,7 +13,4 @@
 * [07.prefetch 与 preload 的区别](<articles/07.prefetch 与 preload 的区别.md>)
 * [08.前端处理日期的库](articles/08.前端处理日期的库.md)
 * [09.动态修改 favicon](<articles/09.动态修改 favicon.md>)
-
-***
-
-* [10.Get Hack News Comments](10.get-hack-news-comments.md)
+* [10.Get Hack News Comments](articles/10.get-hack-news-comments.md)
