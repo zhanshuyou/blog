@@ -17,3 +17,4 @@
 * [11.Rust map & map\_or & map\_or\_else](articles/11.rust-map-and-map_or-and-map_or_else.md)
 * [12.Mac M芯片安装应用: xxx.app 已损坏，无法打开](articles/12.macmxin-pian-an-zhuang-ying-yong-xxx.app-yi-sun-huai-wu-fa-da-kai.md)
 * [13.React19 中的新特性](articles/13.react19-zhong-de-xin-te-xing.md)
+* [14.Remote Problem-Solving Workflow with Tailscale + Termius + tmux + Claude Code](articles/14.remote-problem-solving-workflow-with-tailscale-+-termius-+-tmux-+-claude-code.md)
