@@ -13,7 +13,7 @@
 * **湖仓（Lakehouse）**：把档案室和大仓库合并，既灵活又有结构，主要用于**分析**（看历史数据）
 * **Lakebase**：在湖仓的基础上，再加一层**事务处理引擎**（OLTP），让你可以同时做实时读写 + 历史分析 + AI 推理，全部在一个平台上搞定
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lakebase_architecture_evolution.svg" alt=""><figcaption></figcaption></figure>
 
 ### 理解三个关键层
 
@@ -33,7 +33,7 @@ _业务数据库 → ETL 管道 → 数据仓库 → 另一套 ETL → 向量数
 
 Lakebase 把这一切压缩成一个平台：通过"同步表"功能，自动同步操作数据和历史湖仓数据，无需构建和管理复杂的 ETL 管道。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lakebase_vs_traditional_comparison.svg" alt=""><figcaption></figcaption></figure>
 
 ### 总结
 
@@ -46,3 +46,4 @@ Lakebase 把这一切压缩成一个平台：通过"同步表"功能，自动同
 * 计算与存储分离，不再像传统 PostgreSQL 那样竞争内存资源，还支持自动扩缩容，甚至可以缩到零（不用就不收费）。
 * 支持"数据库分支"，能快速克隆生产数据库做测试，不影响真实数据。
 * AI Agent 可以自己按需创建数据库，作为 AI 处理流程中的临时中间步骤。
+
