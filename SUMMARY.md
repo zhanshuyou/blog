@@ -18,3 +18,7 @@
 * [12.Mac M芯片安装应用: xxx.app 已损坏，无法打开](articles/12.macmxin-pian-an-zhuang-ying-yong-xxx.app-yi-sun-huai-wu-fa-da-kai.md)
 * [13.React19 中的新特性](articles/13.react19-zhong-de-xin-te-xing.md)
 * [14.Remote AI Development: Tailscale + Termius + tmux + Claude Code](articles/14.remote-ai-development-tailscale-+-termius-+-tmux-+-claude-code.md)
+
+## AI
+
+* [什么是 Lakebase？](ai/shen-me-shi-lakebase.md)
